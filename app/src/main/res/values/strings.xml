@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TMDB UI Test</string>
+    <string name="main_activity_title">MainActivity</string>
+    <string name="next_activity_title">NextActivity</string>
+    <string name="text_movie_title">Movie Title</string>
+    <string name="text_movie_description">This is a description of the movie.</string>
+    <string name="text_list_movie_directors">Directors</string>
+    <string name="text_list_movie_star_actors">Star Actors</string>
+    <string name="text_directors">Directors:</string>
+    <string name="text_star_actors">Star Actors:</string>
+    <string name="text_select_image_from_gallery">Select an image from gallery</string>
+    <string name="enter_name">Enter Name:</string>
+    <string name="ok">OK</string>
+    <string name="message">Hello world</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
